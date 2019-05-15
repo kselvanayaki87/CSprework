@@ -12,7 +12,6 @@ namespace Mod1_Lab1
             DateTime vbirthdate;
             vbirthdate = new DateTime(2016, 7, 24);
             firstName = "Viyan";
-            //lastName = "Yuvaraj";
             lastName = Console.ReadLine();
             //Console.WriteLine(firstName + " " + lastName);
             Console.WriteLine($"Born on {vbirthdate}");
