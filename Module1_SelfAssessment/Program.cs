@@ -6,7 +6,7 @@ namespace Module1_SelfAssessment
     {
         public static void Main(string[] args)
         {
-            //Student information using input from console
+            /*Student information using input from console*/
 
             Console.WriteLine("Student information");
             Console.WriteLine("Enter Student Firstname");
