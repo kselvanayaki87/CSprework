@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_Lab1", "Mod3_Lab1\Mod3_Lab1.csproj", "{EDDCADF4-EF64-4228-BAAD-74317FC2A1C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDCADF4-EF64-4228-BAAD-74317FC2A1C7}.Debug|x86.ActiveCfg = Debug|x86
+		{EDDCADF4-EF64-4228-BAAD-74317FC2A1C7}.Debug|x86.Build.0 = Debug|x86
+		{EDDCADF4-EF64-4228-BAAD-74317FC2A1C7}.Release|x86.ActiveCfg = Release|x86
+		{EDDCADF4-EF64-4228-BAAD-74317FC2A1C7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
